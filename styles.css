@@ -1,0 +1,53 @@
+/* add your CSS here */
+body {
+	font-family: "Fredoka One";
+	color: rgb(253, 122, 0);
+}
+
+#card {
+	width: 330px;
+	border: 1px solid #b3b3b3;
+	box-shadow: 10px 10px 5px #d9d9d9;
+	border-radius: 5px;
+	margin: 10px 0;
+	background: url("http://i.imgur.com/Kbg3CAi.jpg");
+}
+
+#info {
+	border: 1px solid #b3b3b3;
+	margin: 15px;
+	padding: 0px 10px;
+	font-size: 15px;
+	border-radius: 5px;
+	background: rgba(255,255,255,0.5);
+	color: rgba(128, 128, 128, 1);
+}
+
+#title {
+	font-size: 25px;
+	line-height: 15px;
+	text-align: center;
+	background: rgba(255,255,255,0.5);
+	padding: 15px;
+
+}
+
+#image {
+	display: block;
+	margin: 0 auto;
+	border-radius: 5px;
+	width: 85%;
+	border: 1px #b3b3b3 solid;
+}
+
+#interestingFact {
+	font-style: italic;
+}
+
+.listLabel {
+	font-weight: bold;
+}
+
+li {
+	list-style-type: none;
+}
