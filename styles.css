@@ -1,7 +1,7 @@
 /* add your CSS here */
 body {
 	font-family: "Fredoka One";
-	color: rgb(253, 122, 0);
+	color: rgb(150, 78, 70);
 }
 
 #card {
@@ -29,16 +29,17 @@ body {
 	text-align: center;
 	background: rgba(253, 197, 94, 0.524);
 	padding: 15px;
-	border-top: 1px solid #b3b3b3;
-	border-bottom: 1px solid #b3b3b3;
-
+	border: 1px solid #b3b3b3;
+	width: 80%;
+	margin: 20px auto;
+	border-radius: 5px;
 }
 
 #image {
 	display: block;
 	margin: 0 auto;
 	border-radius: 5px;
-	width: 85%;
+	width: 300px;
 	border: 1px #b3b3b3 solid;
 }
 
@@ -48,7 +49,7 @@ body {
 
 .listLabel {
 	font-weight: bold;
-	color: rgb(253, 122, 0);
+	color:rgb(150, 78, 70);
 }
 
 li {
