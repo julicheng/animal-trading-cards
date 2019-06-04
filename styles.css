@@ -1,61 +1,61 @@
 /* add your CSS here */
 body {
-	font-family: "Fredoka One";
-	color: rgb(150, 78, 70);
+  font-family: "Fredoka One";
+  color: rgb(150, 78, 70);
 }
 
 #card {
-	width: 330px;
-	border: 1px solid #b3b3b3;
-	box-shadow: 10px 10px 5px #d9d9d9;
-	border-radius: 5px;
-	margin: 10px 0;
-	background: url("http://i.imgur.com/Kbg3CAi.jpg");
+  width: 330px;
+  border: 1px solid #b3b3b3;
+  box-shadow: 10px 10px 5px #d9d9d9;
+  border-radius: 5px;
+  margin: 50px auto;
+  background: url("http://i.imgur.com/Kbg3CAi.jpg");
 }
 
 #info {
-	border: 1px solid #b3b3b3;
-	margin: 15px;
-	padding: 0px 10px;
-	font-size: 15px;
-	border-radius: 5px;
-	background: rgba(253, 197, 94, 0.524);
-	color: rgb(255, 255, 255);
+  border: 1px solid #b3b3b3;
+  margin: 15px;
+  padding: 0px 10px;
+  font-size: 15px;
+  border-radius: 5px;
+  background: rgba(253, 197, 94, 0.524);
+  color: rgb(255, 255, 255);
 }
 
 #title {
-	font-size: 25px;
-	line-height: 15px;
-	text-align: center;
-	background: rgba(253, 197, 94, 0.524);
-	padding: 15px;
-	border: 1px solid #b3b3b3;
-	width: 80%;
-	margin: 20px auto;
-	border-radius: 5px;
+  font-size: 25px;
+  line-height: 15px;
+  text-align: center;
+  background: rgba(253, 197, 94, 0.524);
+  padding: 15px;
+  border: 1px solid #b3b3b3;
+  width: 80%;
+  margin: 20px auto;
+  border-radius: 5px;
 }
 
 #image {
-	display: block;
-	margin: 0 auto;
-	border-radius: 5px;
-	width: 300px;
-	border: 1px #b3b3b3 solid;
+  display: block;
+  margin: 0 auto;
+  border-radius: 5px;
+  width: 300px;
+  border: 1px #b3b3b3 solid;
 }
 
 #interestingFact {
-	font-style: italic;
+  font-style: italic;
 }
 
 .listLabel {
-	font-weight: bold;
-	color:rgb(150, 78, 70);
+  font-weight: bold;
+  color: rgb(150, 78, 70);
 }
 
 li {
-	list-style-type: none;
+  list-style-type: none;
 }
 
 ul {
-	padding: 0;
+  padding: 0;
 }
